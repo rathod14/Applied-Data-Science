@@ -1,2 +1,2 @@
 # Applied-Data-Science
-Class Lab Assignments of IST 687 - Applied Data Science at Syracuse University
+Class Lab Assignments Applied Data Science at Syracuse University
